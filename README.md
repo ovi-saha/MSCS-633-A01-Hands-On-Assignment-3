@@ -3,10 +3,10 @@ This Repo is Hands On Assignment 3 for Advanced Artificial Intelligence (MSCS-63
 
 ## Project structure
 Chatterbot_App/
-├── bot.py
-├── terminal_chat.py
-├── run_bot.py
-├── requirements.txt
+- bot.py
+- terminal_chat.py
+- run_bot.py
+- requirements.txt
 
 ## How to run
 To run this app, 
